@@ -1,0 +1,2 @@
+module Concerns::StudentControllerHelper
+end
